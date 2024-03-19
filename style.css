@@ -246,20 +246,20 @@ margin-bottom: 100px;
 
 h2 {
   font-family: "Roboto Slab", serif;
-  width: 667px;
-  height: 93px;
-  margin-bottom: 20px;
-  font-size: 55px;
+  width: 52.15vw;
+  height: 7.27vw;
+  margin-bottom: 1.56vw;
+  font-size: 3.81vw;
   font-weight: 700;
 }
 
 ul {
   font-family: "Roboto", sans-serif;
-  font-size: 24px;
-  width: 662px;
-  height: 374px;
-  margin-top: 30px;
-  margin-left: 17px;
+  font-size: 1.66vw;
+  width: 51.75vw;
+  height: 29.24vw;
+  margin-top: 2.34vw;
+  margin-left: 1.32vw;
   font-weight: 400;
 }
 
@@ -297,93 +297,22 @@ ul {
 }
 
 .program-idea {
-  width: 25.34vw;
-  height: 39px;
+  height: 2.7vw;
   font-size: 2.08vw;
   font-weight: 700;
-  padding: 0 17px;
+  padding: 0 1.18vw;
   margin-top: 5px;
 }
 
 .program-date {
-  width: 25.34vw;
-  height: 63px;
   font-size: 1.73vw;
   font-weight: 400;
-  padding: 17px;
-  margin-top: 24px;
+  padding: 1.18vw;
+  margin-top: 1.66vw;
 }
 
 @media screen and (min-width: 992px) and (max-width: 1279px){
-   .head{
-        width: 64.87px;
-        height: 38.23px;
-    }
-    .globe{
-    width: 12.74px;
-    height: 12.16px;
-    }
-    .kurs{
-    width: 75.29px;
-    height: 18.53px;
-    font-size: 12px;
-    }
-    .clock-logo{
-    width: 12.74px;
-    height: 12.74px;
-    }
-    .clock-text{
-    width: 75.29px;
-    height: 18.53px;
-    font-size:12px;
-    }
-    .date-logo{
-    width: 11.58px;
-    height: 12.74px;
-    }
-    .date-text{
-    width: 75.29px;
-    height: 18.53px;
-    font-size: 12px;
     
-    }
-    h1{
-    width: 363.72px;
-    height: 110.04px;
-    font-size:46px;
-    }
-    .txt{
-    font-size: 12px;
-    }
-    .kameraman{
-    width: 176.07px;
-    height: 206.18px;
-    }
-    .box{
-    width: 280.11px;
-    border-radius: 2.9px;  
-    
-    }
-    .text1{
-    width: 249.38px;
-    height: 65.45px;
-    font-size: 14px;
-    }
-    .text2{
-    font-size:12px ;
-    width: 150px;
-    height: 26.43px;
-    text-align: right;
-    margin-left: 80px;
-    justify-content: center;
-    }
-    h3{
-        font-size: 32px;
-    }
-    .o-kurse-text{
-        width: 384px;
-        font-size: 14px;
-    }
   .course-describing-image {
     width: 27.7vw;
     height: 11.11vw;
@@ -394,16 +323,16 @@ ul {
   ul {
     font-family: "Roboto", sans-serif;
     font-size: 14px;
-    width: 383px;
-    height: 217px;
+    width: 586px;
+    height: 330px;
     margin-left: 10px;
     font-weight: 400;
   }
   .learn {
     font-family: "Roboto Slab", serif;
-    width: 386px;
-    height: 54px;
-    font-size: 32px;
+    width: 30vw;
+    height: 4.22vw;
+    font-size: 2.5vw;
     font-weight: 700;
   }
 
@@ -417,27 +346,26 @@ ul {
     font-family: "Roboto", sans-serif;
     width: 80%;
     margin: 0 auto;
-    font-size: 32px;
+    font-size: 2.5vw;
     font-weight: 700;
   }
 
   .program-course h2 {
-    width: 524px;
-    height: 54px;
-    font-size: 32px;
+    width: 40.96vw;
+    height: 4.22vw;
+    font-size: 2.5vw;
     font-weight: 700;
   }
   
   .program {
     font-family: "Roboto", sans-serif;
-    height: 781px;
+    height: 1000dpx;
   }
   
   .program-container {
     display: flex;
     flex-wrap: wrap;
     gap: 27px;
-    margin: 0 auto;
     margin-top: 55px;
   }
   .program-details {
@@ -448,25 +376,28 @@ ul {
   }
   
   .program-idea {
-    width: 290px;
-    height: 30px;
-    font-size: 22px;
+    width: 22.67vw;
+    height: 2.34;
+    font-size: 1.72vw;
     font-weight: 700;
     padding: 0 15px;
     margin-top: 2px;
   }
   
   .program-date {
-    width: 290px;
-    height: 42px;
-    font-size: 17px;
+    width: 22.67vw;
+    height: 3.28vw;
+    font-size: 1.32vw;
     font-weight: 400;
-    padding: 15px;
-    margin-top: 17px;
+    padding: 1.17vw;
+    margin-top: 1.32vw;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 991px){
+
+
+ 
   .course-describing-image {
     width: 27.7vw;
     height: 11.11vw;
@@ -476,17 +407,17 @@ ul {
 
   ul {
     font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    width: 383px;
-    height: 217px;
+    font-size: 3.2vw;
+    width: 79.73vw;
+    height: 46.4vw;
     margin-left: 10px;
     font-weight: 400;
   }
   .learn {
     font-family: "Roboto Slab", serif;
-    width: 386px;
-    height: 54px;
-    font-size: 32px;
+    width: 82.66vw;
+    height: 11.55vw;
+    font-size: 6.93vw;
     font-weight: 700;
   }
 
@@ -500,14 +431,14 @@ ul {
     font-family: "Roboto", sans-serif;
     width: 80%;
     margin: 0 auto;
-    font-size: 32px;
+    font-size: 6.93vw;
     font-weight: 700;
   }
 
   .program-course h2 {
-    width: 524px;
-    height: 54px;
-    font-size: 32px;
+    width: 112.53vw;
+    height: 11.55vw;
+    font-size: 6.93vw;
     font-weight: 700;
   }
   
@@ -520,9 +451,9 @@ ul {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    align-self: center;
+    justify-content: center;
+    align-items: center;
     gap: 27px;
-    width: 954px;
     margin: 0 auto;
     margin-top: 55px;
   }
@@ -534,7 +465,7 @@ ul {
   }
   
   .program-idea {
-    width: 290px;
+    width: 49.57vw;
     height: 30px;
     font-size: 22px;
     font-weight: 700;
@@ -543,7 +474,7 @@ ul {
   }
   
   .program-date {
-    width: 290px;
+    width: 49.57vw;
     height: 42px;
     font-size: 17px;
     font-weight: 400;
