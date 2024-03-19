@@ -28,7 +28,7 @@ body{
   margin: 0 auto;
 }
 
-.kurs{
+.course{
   display: inline;
   width: 130px;
   height: 32px;
@@ -312,7 +312,83 @@ ul {
 }
 
 @media screen and (min-width: 992px) and (max-width: 1279px){
-    
+
+  .head{
+    width: 7.7vw;
+    height: 4.6vw;
+  }
+  .globe{
+    width: 1.5vw;
+    height: 1.5vw;
+  }
+  .course{
+    width: 9vw;
+    height: 2.2vw;
+    font-size: 1.4vw;
+  }
+  .clock-logo{
+    width: 1.5vw;
+    height: 1.5vw;
+  }
+  .clock-text{
+    width: 9.01vw;
+    height: 2.21vw;
+    font-size:  1.43vw;
+  }
+  .date-logo{
+    width: 1.4vw;
+    height: 1.5vw;
+  }
+  .date-text{
+    width: 9.01vw;
+    height: 2.21vw;
+    font-size:  1.43vw;
+  }
+  h1{
+    width: 43.6vw;
+    height: 13.2vw;
+    font-size:5.5vw;
+  }
+  .info-text{
+    font-size: 1.43vw;
+  }
+  .cameraman{
+    width: 21.1vw;
+    height: 24.7vw;
+  }
+  .box{
+    width: 33.6vw;
+    border-radius: 0.4vw;  
+
+  }
+  .text1{
+    width: 29.9vw;
+    height: 7.8vw;
+    font-size: 1.7vw;
+  }
+  .text2{
+    font-size: 1.43vw;
+    width: 18vw;
+    height: 3.2vw;
+    text-align: right;
+    margin-left: 9.6vw;
+    justify-content: center;
+  }
+  h3{
+    font-size: 3.8vw;
+  }
+  .in-course-text{
+    width: 46vw;
+    font-size: 1.7vw;
+  }
+  .boxes1-img{
+    width: 16vw;
+    height: 14vw;
+  }
+  .boxes1-text{
+    font-size: 1.3vw;
+
+  }
   .course-describing-image {
     width: 27.7vw;
     height: 11.11vw;
@@ -396,8 +472,134 @@ ul {
 
 @media screen and (min-width: 320px) and (max-width: 991px){
 
+  head{
+    width: 14.1vw;
+    height: 8.3vw;
+  }
+  .globe{
+    width: 3vw;
+    height: 2.61vw;
+  }
+  .course{
+    width: 16.2vw;
+    height: 4vw;
+    font-size: 2.7vw;
+  }
+  .clock-logo{
+    width: 2.9vw;
+    height: 2.9vw;
+  }
+  .clock-text{
+    width: 16.2vw;
+    height: 4vw;
+    font-size: 2.7vw;
+  }
+  .date-logo{
+    width: 2.5vw;
+    height: 2.9vw;
+  }
+  .date-text{
+    width: 16.2vw;
+    height: 4vw;
+    font-size: 2.7vw; 
+  }
+  h1{
+    width: 78vw;
+    height: 23.6vw;
+    font-size: 9.9vw;
+  }
+  .info-text{
+  width: 56.6vw ;
+    height: 7.7vw;
+    font-size: 2.7vw;
+  }
+  .cameraman{
+    width: 37.9vw;
+    height: 46.7vw;
+    margin-top: 150px;
+    margin-left: -140px;
+  }
 
- 
+  .box{
+    display: inline-block;
+    width: 60.1vw;
+    margin-bottom: 50px;
+  }
+  .text1{
+    width: 50,5vw;
+    height: 14.04vw;
+    font-size: 2.9vw;
+  }
+  h3{
+    font-size: 6.9vw;
+  }
+
+  .course-text1{
+    width: 82.3vw;
+    font-size: 3.2vw;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .in-course-img-div{
+    width: 45.5vw;
+  }
+  .o-course-img{
+    width: 45.5vw;
+    height: 42.75vw;
+    margin-top: 53.3vw;
+    margin-left: -32vw;
+  }
+
+  .box-img{
+    display: none;
+  }
+  .boxes1-text{
+    width: 22.9vw;
+    height: 4.8vw;
+    font-size: 2.7vw;
+  }
+  h4{
+    width: 18.64vw;
+    height: 4.8vw;
+    font-size: 3.2vw;
+  }
+  .boxes2{
+    justify-content: space-around;
+    margin-left: 0vw;
+    flex-wrap: wrap;
+  }
+  .format{
+    width: 82.9vw;
+    height: 11.5vw;
+    font-size: 6.9vw;
+    margin-bottom: 5vw;
+  }
+  .last-text1{
+    width: 48vw;
+    height: 12.5vw;
+    font-size: 2.7vw;
+  }
+  .last-text2{
+    width: 45vw;
+    height: 13.6vw;
+    font-size: 2.7vw;
+    margin-bottom: 1vw;
+  }
+  .last-text3{
+    width: 42.4vw;
+    height: 8.3vw;
+    font-size: 2.7vw;
+    margin-bottom: 1vw;
+  }
+  .vebinar{
+    width: 26.6vw;
+    height: 4.8vw;
+    font-size: 3.2vw;
+  }
+  .last-boxes{
+    flex-direction: column;
+  }
+
   .course-describing-image {
     width: 27.7vw;
     height: 11.11vw;
