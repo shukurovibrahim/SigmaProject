@@ -73,13 +73,13 @@ h1{
   margin-bottom: 0;
 }
 
-.txt{
+.info-text{
   margin-top: 30px;
   font-size: 20px;
   font-weight: 400;
 }
 
-.film-izle{
+.watch-movie{
   width: 1185px;
   display: flex;
   margin-bottom: 50px;
@@ -94,11 +94,11 @@ h1{
   font-weight: 400;
 }
 
-.kameraa{
+.camera{
   width:350px ;
 }
 
-.kameraman{
+.cameraman{
   width: 304px;
   height: 356px;
 }
@@ -121,28 +121,28 @@ h1{
   text-align: right;
 }
 
-.o-kurse{
+.in-course{
   display: flex;
   width: 1185px;
   justify-content: space-between;
 }
 
 
-.o-kurse-text{
+.in-course-text{
   width: 662px;
   font-size: 24px;
   font-weight: 400;
 }
 
-.o-text1{
+.course-text1{
   margin-top: 30px;
 }
 
-.o-kurse-img-div{
+.in-course-img-div{
    width: 350px;
 }
 
-.o-kurse-img{
+.in-course-img{
   width: 314px;
   height: 315px;
   margin-top: 25px;
